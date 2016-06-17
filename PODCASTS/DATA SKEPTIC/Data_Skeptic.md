@@ -1,64 +1,59 @@
 [DATA SKEPTIC](http://dataskeptic.com/)
 
-001.Data_Skeptic_Podcast_ep000_-_Introduction.mp3
-	[introduction]
-	[mini-episodes]
-	[Kyle Polich]
-	[data science](https://en.wikipedia.org/wiki/Data_science)
-	applications, techniques, claims
+# 001.Data_Skeptic_Podcast_ep000_-_Introduction.mp3
 
-	[skepticism](https://en.wikipedia.org/wiki/Skepticism)
+[introduction]
+[mini-episodes]
+[Kyle Polich]
+[data science](https://en.wikipedia.org/wiki/Data_science): applications, techniques, claims
 
-	[Bayesian](https://en.wikipedia.org/wiki/Bayesian)
+[skepticism](https://en.wikipedia.org/wiki/Skepticism)
 
-	[Type II error](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors#Type_II_error)
+[Bayesian](https://en.wikipedia.org/wiki/Bayesian)
 
-	[normally distributed](https://en.wikipedia.org/wiki/Normally_distributed)
-		
-	[Bayes' Theorem](https://en.wikipedia.org/wiki/Bayes's_Theorem)
+[Type II error](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors#Type_II_error)
 
-	[data science](https://en.wikipedia.org/wiki/Data_science)
+[normally distributed](https://en.wikipedia.org/wiki/Normally_distributed)
+	
+[Bayes' Theorem](https://en.wikipedia.org/wiki/Bayes's_Theorem)
 
-	[algorithms](https://en.wikipedia.org/wiki/Algorithms)
+[data science](https://en.wikipedia.org/wiki/Data_science)
 
-	[search engines](https://en.wikipedia.org/wiki/Web_search_engine)
+[algorithms](https://en.wikipedia.org/wiki/Algorithms)
 
-	[information retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
+[search engines](https://en.wikipedia.org/wiki/Web_search_engine)
 
-	[statistics](https://en.wikipedia.org/wiki/Statistics)
+[information retrieval](https://en.wikipedia.org/wiki/Information_retrieval)
 
-	[data mining](https://en.wikipedia.org/wiki/Data_mining)
+[statistics](https://en.wikipedia.org/wiki/Statistics)
 
-	[forecasting](https://en.wikipedia.org/wiki/Forecasting)
+[data mining](https://en.wikipedia.org/wiki/Data_mining)
 
-	[regression](https://en.wikipedia.org/wiki/Regression_analysis)
+[forecasting](https://en.wikipedia.org/wiki/Forecasting)
 
-	[image recognition](https://en.wikipedia.org/wiki/Computer_vision#Recognition)
+[regression](https://en.wikipedia.org/wiki/Regression_analysis)
 
-	[natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+[image recognition](https://en.wikipedia.org/wiki/Computer_vision#Recognition)
 
-	[artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 
-	[decision theory](https://en.wikipedia.org/wiki/Decision_theory)
+[artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
-	[game theory](https://en.wikipedia.org/wiki/Game_theory)
+[decision theory](https://en.wikipedia.org/wiki/Decision_theory)
 
-	PEOPLE MENTIONED
-		Carl Sagan
-			https://en.wikipedia.org/wiki/Carl_Sagan
+[game theory](https://en.wikipedia.org/wiki/Game_theory)
 
-		Penn Jillette
-			https://en.wikipedia.org/wiki/Penn_Jillette
+## PEOPLE MENTIONED
 
-		James Randi
-			https://en.wikipedia.org/wiki/James_Randi
+[Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)
 
-		Eugenie Scott
-			https://en.wikipedia.org/wiki/Eugenie_Scott
+[Penn Jillette](https://en.wikipedia.org/wiki/Penn_Jillette)
 
-		Steven Novella
-			https://en.wikipedia.org/wiki/Steven_Novella
+[James Randi](https://en.wikipedia.org/wiki/James_Randi)
 
-		Brian Dunning 
-			https://en.wikipedia.org/wiki/Brian_Dunning_%28author%29
+[Eugenie Scott](https://en.wikipedia.org/wiki/Eugenie_Scott)
+
+[Steven Novella](https://en.wikipedia.org/wiki/Steven_Novella)
+
+[Brian Dunning](https://en.wikipedia.org/wiki/Brian_Dunning_%28author%29)
 
