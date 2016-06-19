@@ -3,12 +3,15 @@
 ### META (THE SHOW ITSELF) 
 
 * introduction 
+
 [Episode 1]((http://dataskeptic.com/epnotes/ep001.php))
 
 * mini-episodes 
+
 [Episode 1]((http://dataskeptic.com/epnotes/ep001.php))
 
 * Kyle Polich 
+
 [Episode 1]((http://dataskeptic.com/epnotes/ep001.php))
 
 
