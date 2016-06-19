@@ -39,7 +39,7 @@ penalties / costs for error
 			alarm doesn't ring when it should (fails)
 
 * Sniffing and tasting milk to determine whether it's bad:
-** smells good and is good
-** smells good and is bad
-** smells bad and is bad
-** smells bad and is good
+- smells good and is good
+- smells good and is bad
+- smells bad and is bad
+- smells bad and is good
