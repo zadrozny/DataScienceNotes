@@ -34,9 +34,12 @@ penalties / costs for error
 
 * Type I vs Type II errors: 
 	- false positive vs false negative error
-		-- smoke detector example:
-			--- alarm rings when it shouldn't
-			--- alarm doesn't ring when it should (fails)
+		
+		smoke detector example:
+
+			alarm rings when it shouldn't
+		
+			alarm doesn't ring when it should (fails)
 
 * Sniffing and tasting milk to determine whether it's bad:
 	- smells good and is good
