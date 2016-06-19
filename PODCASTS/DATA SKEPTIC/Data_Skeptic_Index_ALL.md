@@ -9,8 +9,9 @@
 ## D
 
 ### data science
-#### Shows: [1](http://dataskeptic.com/epnotes/ep001.php)
-* [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
+##### Shows: [1](http://dataskeptic.com/epnotes/ep001.php)
+##### Links
+	[Wikipedia](https://en.wikipedia.org/wiki/Data_science)
 
 
 ## E
