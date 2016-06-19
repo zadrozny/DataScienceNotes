@@ -1,6 +1,4 @@
-# [DATA SKEPTIC](http://dataskeptic.com/)
-
-## 0. Introduction
+## [1. Introduction](http://dataskeptic.com/epnotes/ep001.php) [Length: 3:55]
 
 [introduction]
 
