@@ -19,9 +19,9 @@
 ## D
 
 ### data science
-##### Shows: [1](http://dataskeptic.com/epnotes/ep001.php)
+##### Episodes: [1](http://dataskeptic.com/epnotes/ep001.php)
 ##### Links
-	[Wikipedia](https://en.wikipedia.org/wiki/Data_science)
+* [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
 
 
 ## E
@@ -54,8 +54,7 @@
 
 ## S
 ### skepticism
-##### Episodes
-* [1](http://dataskeptic.com/epnotes/ep001.php)
+##### Episodes: [1](http://dataskeptic.com/epnotes/ep001.php)
 
 ##### Links
 * [Wikipedia](https://en.wikipedia.org/wiki/Skepticism)
