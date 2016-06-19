@@ -54,9 +54,9 @@
 
 ## S
 ### skepticism
-#### Episodes: [1](http://dataskeptic.com/epnotes/ep001.php)
-#### Links
-* [Wikipedia](https://en.wikipedia.org/wiki/Skepticism)
+	#### Episodes: [1](http://dataskeptic.com/epnotes/ep001.php)
+	#### Links
+	* [Wikipedia](https://en.wikipedia.org/wiki/Skepticism)
 
 ## T
 
