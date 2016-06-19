@@ -1,4 +1,4 @@
-# 2. Type I and Type II Errors
+# [2. Type I and Type II Errors](http://dataskeptic.com/epnotes/type_i_type_ii.php)
 	
 [Linh Da: DataSkeptic co-host]
 
