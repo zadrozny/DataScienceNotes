@@ -1,4 +1,4 @@
-[# 12. MINI Ant Colony Optimization](http://dataskeptic.com/epnotes/ant-colony-optimization.php)
+# [12. MINI Ant Colony Optimization](http://dataskeptic.com/epnotes/ant-colony-optimization.php)
 
 [search and optimization techniques](https://en.m.wikipedia.org/wiki/Mathematical_optimization)
 
