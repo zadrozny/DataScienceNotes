@@ -18,9 +18,9 @@
 
 * Example: optimization for a restaurant owner
 
-1. make place smaller: less rent, fewer tables, etc
-2. expand and have franchises
-3. simplify the menu
+	1. make place smaller: less rent, fewer tables, etc
+	2. expand and have franchises
+	3. simplify the menu
 
 * Example: Ants are trying to find shortest path to food. They wander about randomly until they find food, then they walk home releasing pheromones; the strongest smelling trail is the one the most ants have converged upon. 
 
