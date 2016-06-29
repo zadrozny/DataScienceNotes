@@ -45,4 +45,4 @@
 
 ## LINKS
 
-* Conspiracy Skeptic Podcast with Kyle Polich (http://www.yrad.com/cs/)
+* [Conspiracy Skeptic Podcast with Kyle Polich](http://www.yrad.com/cs/)
