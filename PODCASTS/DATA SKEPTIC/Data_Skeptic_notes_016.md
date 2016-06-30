@@ -32,7 +32,7 @@ branch
 
 leaf
 
-## EXAMPLE
+## EXAMPLES
 
 [Twenty Questions (game)](https://en.wikipedia.org/wiki/Twenty_Questions)
 
